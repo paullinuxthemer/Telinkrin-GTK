@@ -1,13 +1,14 @@
 # Telinkrin-GTK
-a GTK2,and GTK3 file for the Gnome-desktop
+a GTK2,and GTK3 file for the Gnome-desktop.
 
 
 ## This repository only contains the Telinkrin-theme and Telinkrin shell!
+Visit https://github.com/paullinuxthemer/Arrongin-GTK for Arrongin-variant.
 
 
 ![s](https://cn.pling.com/img/6/6/d/b/a3f4d4dfbb6340c0e6a75bd68d38c8c2c527.jpg)
 
-A modern and refined re-interpretation of Ambiance for Ubuntu 18.04
+A modern and refined re-interpretation of Ambiance for Ubuntu 18.04.
 
 Nautilus and Tweak-tool have a new and modern look. And theming is persistent to the smallest detail. Combined with the Shell-theme, background, and icon-theme it really looks consistent.
 
@@ -19,9 +20,6 @@ https://www.youtube.com/watch?v=8VUypqR1w2Y
 TELINKRIN:
 https://www.youtube.com/watch?v=beNz0nRcqgQ
 
-NEW, is the color-variant Telinkrin, All with matching wallpaper, icons and shelltheme
-
-Please, try and rate, comment. Any input or criticism is welcome.
 
 About the shell-theme: the dock is not themed. If you use dash-to-dock, then use its settings to match the dock to your own liking. Telinkrin's shell-theme has its own teal coloring.
 
