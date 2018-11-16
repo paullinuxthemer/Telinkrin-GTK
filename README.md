@@ -5,7 +5,7 @@ a GTK2,and GTK3 file for the Gnome-desktop
 ## This repository only contains the Telinkrin-theme and Telinkrin shell!
 
 
-![s](https://cn.pling.com/img/6/6/d/b/a3f4d4dfbb6340c0e6a75bd68d38c8c2c527.jpg)
+![s](https://cn.opendesktop.org/img/c/8/b/9/6281cb2203a84b65b8a285877202095297c7.jpg)
 
 A modern and refined re-interpretation of Ambiance for Ubuntu 18.04
 
